@@ -1,1 +1,16 @@
-H
+@font-face {
+    font-family: 'Chunk Five';
+    src: url('fonts/chunkfive-webfont.woff2') format('woff2'),
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Kaushan Script';
+    src: url('fonts/kaushanscript-regular-webfont.woff2') format('woff2'),
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1 {
+	font-family: 'Chunk Five', sans-serif;
+}
