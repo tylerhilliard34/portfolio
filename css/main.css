@@ -10,7 +10,21 @@
     font-weight: normal;
     font-style: normal;
 }
+body {
+	background-color: #000;
+}
+
+.container {
+	background-color: #fff;
+	padding: 50px;
+}
 
 h1 {
+	font-family: 'Kaushan Script',serif;
+	color: #ff0000;
+}
+
+p {
 	font-family: 'Chunk Five', sans-serif;
+	color: #ff0000;
 }
